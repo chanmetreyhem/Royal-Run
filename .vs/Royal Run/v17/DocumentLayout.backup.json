@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Royal Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\proc gen\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proc gen\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|d:\\unityproject\\royal run\\assets\\scripts\\proc gen\\obstaclespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proc gen\\obstaclespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|d:\\unityproject\\royal run\\assets\\scripts\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|d:\\unityproject\\royal run\\assets\\scripts\\proc gen\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proc gen\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\proc gen\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proc gen\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\proc gen\\obstacledestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proc gen\\obstacledestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\player\\playercollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\manager\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|D:\\UnityProject\\Royal Run\\assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A307EA1-F215-C0D9-8DDA-7F704F7D445A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\PickUps\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\PickUp.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\PickUps\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\PickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:39:34.494Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObstacleSpawn.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\ObstacleSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Proc Gen\\ObstacleSpawn.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\ObstacleSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Proc Gen\\ObstacleSpawn.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T07:02:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Rock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rock.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Rock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rock.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:11:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Proc Gen\\LevelGenerator.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Proc Gen\\LevelGenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwEkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:03:54.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Proc Gen\\CheckPoint.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Proc Gen\\CheckPoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:19:33.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:08:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\Chunk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Proc Gen\\Chunk.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\Chunk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Proc Gen\\Chunk.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:53:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Manager\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\ScoreManager.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Manager\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:48:05.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T02:44:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerCollisionHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Player\\PlayerCollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCollisionHandler.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Player\\PlayerCollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCollisionHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T01:50:19.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:46:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObstacleDestroy.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\ObstacleDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Proc Gen\\ObstacleDestroy.cs",
+              "ToolTip": "D:\\UnityProject\\Royal Run\\Assets\\Scripts\\Proc Gen\\ObstacleDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Proc Gen\\ObstacleDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T01:52:29.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
